@@ -5,4 +5,5 @@ Team_YCS (A Machine Learning System for Crosswalk Detection)
 박주석, 조하연, 조승희
 
 # Source code list
-darknet, shell script
+Folder darknet
+Folder shell script
