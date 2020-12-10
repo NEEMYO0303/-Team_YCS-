@@ -1,7 +1,8 @@
-## 융합소프트웨어종합설계 최종결과물
-A Machine Learning System for Crosswalk Detection
-Team_YCS (박주석, 조하연, 조승희)
-------------------------------------------------------------
+융합소프트웨어종합설계 최종결과물
+=================================
+* A Machine Learning System for Crosswalk Detection
+* Team_YCS (박주석, 조하연, 조승희)
+
 
 
 
