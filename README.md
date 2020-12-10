@@ -11,5 +11,6 @@ Source code list
 Notes
 =====
 > File capacity is greater than 100MB
-> > Source_code/darknet/darknet53.conv.zip 압축 해제 필수.
-> > Source_code/darknet/backup/yolov3_77700.zip 압축 해제 필수.
+>	> Source_code/darknet/darknet53.conv.zip 압축 해제 필수
+
+>	> Source_code/darknet/backup/yolov3_77700.zip 압축 해제 필수
