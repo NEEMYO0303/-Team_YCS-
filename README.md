@@ -29,3 +29,7 @@ System Environment
 Presentation video
 ==================
 https://youtu.be/KLlm4RRUIMI
+
+System Implementation (Blog)
+==============================
+https://kkoma-it.tistory.com/1
